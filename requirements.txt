@@ -88,5 +88,5 @@ validators==0.18.2
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.2
-XlsxWriter @ file:///tmp/build/80754af9/xlsxwriter_1636633762820/work
+xlsxWriter==3.0.2
 zipp==3.6.0
